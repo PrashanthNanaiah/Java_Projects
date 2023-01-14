@@ -1,1 +1,5 @@
 In this index page we are going to write about what type of content we are going to add within this Java_Projects repository.
+Introduction to java
+Features of java
+Applications of java
+Concept of WORA
